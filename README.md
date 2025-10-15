@@ -1,6 +1,8 @@
 # AnythingLLM_RAG
 AnythingLLM RAG - 打造自己的地端 AI 客服系統、AI 知識庫系統、AI 智慧助理、AI 專家機器人。
 
+![AnythingLLM](./images/AnythingLLM.png)
+
 # RAG
 RAG 代表「檢索增強生成」（Retrieval-Augmented Generation），是一種結合「資料檢索」和「生成式AI」的技術。  
 它能讓大型語言模型（LLM）在回答問題前，先從外部知識庫（如企業內部資料）中檢索相關資訊，  

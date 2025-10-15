@@ -63,7 +63,7 @@ docker run -d --gpus=all -v ollama:/root/.ollama -p 11434:11434 --name ollama ol
 
 # 在瀏覽器中訪問 AnythingLLM 網頁
 ![RAG_AnythingLLM](./images/RAG_AnythingLLM.png)
-打開瀏覽器 在瀏覽器的網址欄中輸入 http://localhost:3001，就可以看到 AnythingLLM 應用程式的網頁介面。
+打開瀏覽器 在瀏覽器的網址欄中輸入 `http://localhost:3001`，就可以看到 AnythingLLM 應用程式的網頁介面。
 
 # 獲取 RAG 的資訊並生成資訊回應
 ![RAG_ASK](./images/RAG_ASK.png)

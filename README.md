@@ -56,17 +56,17 @@ docker run -d --gpus=all -v ollama:/root/.ollama -p 11434:11434 --name ollama ol
 ```
 
 # 建立 RAG 範例(以文字檔為例)
-![RAG_TXT](./images/RAG_TXT.png)
-建立你的私人 RAG 文字檔案。
+![RAG_TXT](./images/RAG_TXT.png)  
+建立你的私人 RAG 文字檔案。  
 
 # 匯入 RAG 檔案
-![RAG_IMPORT](./images/RAG_IMPORT.png)
-匯入之前寫好的 RAG 文字檔案。
+![RAG_IMPORT](./images/RAG_IMPORT.png)  
+匯入之前寫好的 RAG 文字檔案。  
 
 # 在瀏覽器中訪問 AnythingLLM 網頁
-![RAG_AnythingLLM](./images/RAG_AnythingLLM.png)
-打開瀏覽器 在瀏覽器的網址欄中輸入 `http://localhost:3001`，就可以看到 AnythingLLM 應用程式的網頁介面。
+![RAG_AnythingLLM](./images/RAG_AnythingLLM.png)  
+打開瀏覽器 在瀏覽器的網址欄中輸入 `http://localhost:3001`，就可以看到 AnythingLLM 應用程式的網頁介面。  
 
 # 獲取 RAG 的資訊並生成資訊回應
-![RAG_ASK](./images/RAG_ASK.png)
+![RAG_ASK](./images/RAG_ASK.png)  
 

@@ -56,16 +56,16 @@ docker run -d --gpus=all -v ollama:/root/.ollama -p 11434:11434 --name ollama ol
 ```
 
 # Create RAG Example (Using Text Files as Example)
-![RAG_TXT](./images/RAG_TXT.png)
-Create your private RAG text file.
+![RAG_TXT](./images/RAG_TXT.png)  
+Create your private RAG text file.  
 
 # Import RAG Files
-![RAG_IMPORT](./images/RAG_IMPORT.png)
-Import the previously written RAG text file.
+![RAG_IMPORT](./images/RAG_IMPORT.png)  
+Import the previously written RAG text file.  
 
 # Access AnythingLLM Web Page in Browser
-![RAG_AnythingLLM](./images/RAG_AnythingLLM.png)
-Open browser and enter `http://localhost:3001` in the browser's address bar to see the AnythingLLM application's web interface.
+![RAG_AnythingLLM](./images/RAG_AnythingLLM.png)  
+Open browser and enter `http://localhost:3001` in the browser's address bar to see the AnythingLLM application's web interface.  
 
 # Retrieve RAG Information and Generate Information Response
-![RAG_ASK](./images/RAG_ASK.png)
+![RAG_ASK](./images/RAG_ASK.png)  

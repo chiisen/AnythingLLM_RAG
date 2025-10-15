@@ -3,7 +3,7 @@ AnythingLLM RAG - Build your own on-premises AI customer service system, AI know
 
 ![AnythingLLM](./images/AnythingLLM.png)
 
-[切換到中文](./README.md)
+[切換到中文](./README.md) | [日本語で表示](./README_JP.md)
 
 # RAG
 RAG stands for "Retrieval-Augmented Generation," a technology that combines "data retrieval" and "generative AI."  
